@@ -95,7 +95,11 @@ for (int i = K; i < N; i++) {
 큐는(queue)는 FIFO(First In, First Out) 구조로, 먼저 들어온 요소가 먼저 빠져나가는 알고리즘입니다.
 모든 연산이 상수 시간 O(1)로 매우 빠르게 동작합니다.
 주로 대기열, BFS, 프로세스 등 문제에서 사용합니다.
+```
 
+<img src="https://github.com/user-attachments/assets/7b561854-9b47-4790-a839-a3f8e0caa983" width="500">
+
+```
 !참고
 우선순위 큐(priority queue)는 최대 힙(Max Heap) 또는 최소 힙(Min Heap) 구조로 우선순위가 높거나 낮은 값이 먼저 나오는 방식입니다.
 완전 이진 트리의 구조로 모든 노드가 왼쪽부터 차례대로 채워지는 성질을 가집니다.
